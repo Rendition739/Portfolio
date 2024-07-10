@@ -21,7 +21,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://gitlab.skillbox.ru/aleksandr_belovanov/python_basic_diploma">
+  <a href="[https://github.com/Rendition739/Portfolio/blob/main/Basic_TG_bot_on_python]">
     <img src="images/logo.png" alt="Logo" width="280" height="280">
   </a>
 
@@ -303,7 +303,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-My Email - s.belovanov.smith385@slmail.me
+My Email - s.belovanov.wham657@slmail.me
 
 Project Link: [https://gitlab.skillbox.ru/aleksandr_belovanov/python_basic_diploma](https://gitlab.skillbox.ru/aleksandr_belovanov/python_basic_diploma)
 
