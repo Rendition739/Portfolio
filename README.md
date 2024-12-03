@@ -1,3 +1,3 @@
-Current repository contains some files, related to CyberSec.
+Current repository contains files, which are directly or indirectly related to CyberSecurity. 
 
-Note: Files' content is mostly written in russian.
+Disclaimer: Content of files is mostly in Russian.
